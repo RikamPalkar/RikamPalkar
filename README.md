@@ -8,7 +8,7 @@
 - :pushpin:	Collaborate with me @ [Learn DSA](https://github.com/RikamPalkar/DSA)
 - :receipt:	My articles: [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) || [Medium](https://medium.com/@RikamPalkar)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rikam?theme=dark&font=Noto%20Sans%20Mono&ext=heatmap)
+
 
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikampalkar) 
@@ -27,6 +27,8 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rikam?theme=dark&font=Noto%20Sans%20Mono&ext=heatmap)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikampalkar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
