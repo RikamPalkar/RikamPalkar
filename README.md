@@ -2,24 +2,11 @@
 <h1 align="center">Hi 👋, I'm Rikam Palkar</h1>
 <h3 align="center">A passionate Software Engineer, changing the world with scalable code.</h3>
 
-# 💫About Me :
-- 📓 Read my book: [WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)
-- 💻 [rikam.dev](https://rikampalkar.github.io)
--  Code with me on [LeetCode](https://leetcode.com/Rikam)
-- [Learn DSA](https://github.com/RikamPalkar/DSA)
-
-- 👨‍💻 All of my projects are available at [https://github.com/RikamPalkar?tab=repositories](https://github.com/RikamPalkar?tab=repositories)
-
-- 📓 Writing a book on WPF co-authoring C#Corner's CEO, Mahesh Chand.
-
-- 📫 How to reach me **rikampalakr@gmail.com**
-
-## 🏆Achievement
-- 📝 Also I am Top writer on medium.
-
-- 📜 I am award winning technical writer: https://www.c-sharpcorner.com/members/rikam-palkar
-
-- ✍ I regularly write articles on [https://medium.com/@RikamPalkar](https://medium.com/@RikamPalkar)
+- 📓 Read my book: [WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml) 
+- 💻 [rikam.dev](https://rikampalkar.github.io) 
+- :desktop_computer: Code with me on [LeetCode]: (https://leetcode.com/Rikam)
+- :pushpin:	Collaborate with me @ [Learn DSA]: (https://github.com/RikamPalkar/DSA)
+- :receipt:	My articles: [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) || [Medium](https://medium.com/@RikamPalkar)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikampalkar" alt="rikampalkar" /></a> </p>
 
