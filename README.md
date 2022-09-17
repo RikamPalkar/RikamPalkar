@@ -4,8 +4,8 @@
 
 - 📓 Read my book: [WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml) 
 - 💻 [rikam.dev](https://rikampalkar.github.io) 
-- :desktop_computer: Code with me on [LeetCode]: (https://leetcode.com/Rikam)
-- :pushpin:	Collaborate with me @ [Learn DSA]: (https://github.com/RikamPalkar/DSA)
+- :desktop_computer: Code with me on [LeetCode](https://leetcode.com/Rikam)
+- :pushpin:	Collaborate with me @ [Learn DSA](https://github.com/RikamPalkar/DSA)
 - :receipt:	My articles: [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) || [Medium](https://medium.com/@RikamPalkar)
 
 
