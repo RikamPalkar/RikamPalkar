@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Software Engineer, changing the world with scalable code.</h3>
 
 |    📓 My Book   | 💻 Website     |  :desktop_computer: Code       | :pushpin: Collaborate | :receipt: Articles |
-| ----------------|:-----------:|:-----------:|:-----------:|
-|[WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)| [rikam.dev](https://rikampalkar.github.io)|[LeetCode](https://leetcode.com/Rikam)|[Learn DSA](https://github.com/RikamPalkar/DSA) | [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) || [Medium](https://medium.com/@RikamPalkar)
+| ----------------|:-----------:|:-----------:|:-----------:||:-----------:|
+|[WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)| [rikam.dev](https://rikampalkar.github.io)|[LeetCode](https://leetcode.com/Rikam)|[Learn DSA](https://github.com/RikamPalkar/DSA) | [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles)  [Medium](https://medium.com/@RikamPalkar)
 
 - 📓 Read my book: [WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml) 
 - 💻 Visit my website: [rikam.dev](https://rikampalkar.github.io) 
