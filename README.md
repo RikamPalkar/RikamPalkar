@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rikam Palkar</h1>
 <h3 align="center">A passionate Software Engineer, changing the world with scalable code.</h3>
 
-|     My Book     | Website     |  Code       | Collaborate |
+|    📓 My Book   | Website     |  Code       | Collaborate |
 | ----------------|:-----------:|:-----------:|:-----------:|
 |[WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)| [rikam.dev](https://rikampalkar.github.io)|[LeetCode](https://leetcode.com/Rikam)|[Learn DSA](https://github.com/RikamPalkar/DSA)
 
