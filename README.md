@@ -4,7 +4,7 @@
 
 |    📓 My Book   | 💻 Website     |  :desktop_computer: Code       | :pushpin: Collaborate | :receipt: Articles |
 | ----------------|:-----------:|:-----------:|:-----------:|:-----------:|
-|[WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)| [rikam.dev](https://rikampalkar.github.io)|[LeetCode](https://leetcode.com/Rikam)|[Learn DSA](https://github.com/RikamPalkar/DSA) | [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) , [Medium](https://medium.com/@RikamPalkar)
+|[WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)| [Rikam.dev](https://rikampalkar.github.io)|[LeetCode](https://leetcode.com/Rikam)|[Learn DSA](https://github.com/RikamPalkar/DSA) | [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) , [Medium](https://medium.com/@RikamPalkar)
 
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikampalkar) 
