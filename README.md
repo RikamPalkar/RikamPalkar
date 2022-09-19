@@ -29,7 +29,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rikam?theme=dark&font=Noto%20Sans%20Mono&ext=heatmap)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rikam?theme=dark&font=Roboto)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rikampalkar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
