@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Rikam Palkar</h1>
-<h3 align="center">A passionate Software Engineer, changing the world with scalable code.</h3>
+<h1 align="left">Fancy seeing you here!</h1>
+<h3 align="left">I am not addicted to coding, I'll stop as soon as I am done returning from this recursive method!!</h3>
+
 
 |    📓 My Book   | 💻 Website     |  :desktop_computer: Code       | :pushpin: Collaborate | :receipt: Articles |
 | ----------------|:-----------:|:-----------:|:-----------:|:-----------:|
