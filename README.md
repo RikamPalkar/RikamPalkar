@@ -50,3 +50,29 @@
 </tr>
 </table>
 
+```csharp
+
+public class Rikam
+{
+    string Moto = "Making world a better place by writing scalable code!";
+
+    string[] Skills = { "C#", ".Net", "DSA", "Blazor", "WPF", "WebAPI" };
+
+    public Rikam(string major)
+    {
+        major = "COMPUTER SCIENCE";
+    }
+
+    public string GetDegree()
+    {
+        return "Master of Computer Applications";
+    }
+
+    public void DownloadMyBook()
+    {
+        string nameOfTheBook = "WPF Simplified";
+        string availableAt = "C# Corner!";
+    }
+}    
+
+```
