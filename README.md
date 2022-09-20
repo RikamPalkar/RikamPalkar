@@ -63,10 +63,7 @@ public class Rikam
         major = "COMPUTER SCIENCE";
     }
 
-    public string GetDegree()
-    {
-        return "Master of Computer Applications";
-    }
+    public string GetDegree() => "Master of Computer Applications";
 
     public void DownloadMyBook()
     {
