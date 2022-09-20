@@ -70,8 +70,8 @@ public class Rikam
 
     public void DownloadMyBook()
     {
-        string nameOfTheBook = "WPF Simplified";
-        string availableAt = "C# Corner!";
+        string name = "WPF Simplified";
+        string publisher = "C# Corner!";
     }
 }    
 
