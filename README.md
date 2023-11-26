@@ -3,9 +3,9 @@
 <h3 align="left">I am not addicted to coding, I'll stop as soon as I am done returning from this recursive method!!</h3>
 
 
-|    📓 My Book   | 💻 Website     |  :desktop_computer: Code       | :pushpin: Collaborate | :receipt: Articles |
-| ----------------|:-----------:|:-----------:|:-----------:|:-----------:|
-|[WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml)| [Rikam.dev](https://rikampalkar.github.io)|[LeetCode](https://leetcode.com/Rikam)|[DSA Simplified](https://github.com/RikamPalkar/DSA) | [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) , [Medium](https://medium.com/@RikamPalkar)
+|    📓 My Books   | 💻 Website |  Youtube | :desktop_computer: Code       | :pushpin: Collaborate | :receipt: Articles |
+| ----------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|[Blazor Simplified](https://www.amazon.in/Blazor-Simplified-Guide-Essential-Fundamentals-ebook/dp/B0CBCKB32W), [WPF Simplified](https://www.c-sharpcorner.com/ebooks/wpf-simplified-build-windows-apps-using-csharp-and-xaml) | [Rikam.dev](https://rikampalkar.github.io)| [Rikam Palkar](https://www.youtube.com/@rikampalkar) | [LeetCode](https://leetcode.com/Rikam)|[DSA Simplified](https://github.com/RikamPalkar/DSA) | [C# Corner](https://www.c-sharpcorner.com/members/rikam-palkar/articles) , [Medium](https://medium.com/@RikamPalkar)
 
 ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikampalkar) 
